@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8196cfcd579460458effc6f11a3fee4, type: 3}
+  m_Name: MartialArts Uniform
+  m_EditorClassIdentifier: 
+  type: 1
+  itemName: "\uAD8C\uBC95\uAC00 \uB3C4\uBCF5"
+  sprite: {fileID: 767683850, guid: 10890bcd0e0fbc04eb94cc291fe93dc2, type: 3}
+  idx: 1
+  description: "\uACA9\uD22C\uAE30\uC6A9\uC73C\uB85C \uC81C\uC791\uB41C \uBC29\uC5B4\uD6A8\uACFC
+    \uB530\uBD09\uC778 \uB3C4\uBCF5."
+  character: 0
+  atk: 8
+  def: 15
+  hit: 0
+  dodge: 7
+  cri: 0
+  gold: 500
+  use: 0

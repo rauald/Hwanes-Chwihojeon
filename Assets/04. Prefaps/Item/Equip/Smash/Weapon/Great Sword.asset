@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8196cfcd579460458effc6f11a3fee4, type: 3}
+  m_Name: Great Sword
+  m_EditorClassIdentifier: 
+  type: 0
+  itemName: "\uADF8\uB808\uC774\uD2B8 \uC18C\uB4DC"
+  sprite: {fileID: 1574369414, guid: 10890bcd0e0fbc04eb94cc291fe93dc2, type: 3}
+  idx: 3
+  description: "\uAC15\uB825\uD55C \uC131\uB2A5\uC5D0 \uB204\uAD6C\uB098 \uAC10\uD0C4\uD558\uB294
+    \uBA85\uAC80 \uC911\uC758 \uBA85\uAC80."
+  character: 2
+  atk: 41
+  def: 0
+  hit: 40
+  dodge: 0
+  cri: 0
+  gold: 1000
+  use: 0

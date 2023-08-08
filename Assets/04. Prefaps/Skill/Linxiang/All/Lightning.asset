@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e7535f6ed127cc4e8476be821b87ef9, type: 3}
+  m_Name: Lightning
+  m_EditorClassIdentifier: 
+  type: 2
+  skillName: "\uC554\uAC01 \xB7 \uC601\uC0C1\uB8B0\uD654"
+  aniName: doAllSkill
+  skillDamage: 15
+  atkCount: 1
+  isPoison: 0
+  isFaint: 0
+  isSFX: 0
+  icon: {fileID: -1018024332, guid: 4f2d76dbf9e19a542b9b2b8a97510ce2, type: 3}
+  number: 3
+  removeMp: 25
+  description: "\uC694\uC0AC\uC2A4\uB7EC\uC6B4 \uCDA4\uC73C\uB85C \uB8B0\uC6B4\uC744
+    \uBD88\uB7EC\uB4E4\uC5EC \uC801 \uC804\uCCB4\uC5D0 \uB8B0\uACA9\uACF5\uACA9."
+  rank: "\uD544\uC0B4\uAE30"
+  level: 1
+  maxExp: 100
+  curExp: 0
+  heal: 0

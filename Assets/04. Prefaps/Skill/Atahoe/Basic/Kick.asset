@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e7535f6ed127cc4e8476be821b87ef9, type: 3}
+  m_Name: Kick
+  m_EditorClassIdentifier: 
+  type: 0
+  skillName: "\uB3CC\uB824\uCC28\uAE30"
+  aniName: doBasicSkill
+  skillDamage: 2
+  atkCount: 1
+  isPoison: 0
+  isFaint: 0
+  isSFX: 1
+  icon: {fileID: 1650412630, guid: 4f2d76dbf9e19a542b9b2b8a97510ce2, type: 3}
+  number: 1
+  removeMp: 0
+  description: "\uD30C\uC6CC\uB97C \uC911\uC2DC\uD558\uB294 \uB3D9\uC791 \uD070 \uCC28\uAE30\uACF5\uACA9.
+    \uD2C8\uC774 \uB9CE\uC740 \uAC8C \uD760."
+  rank: "\uC5C6\uC74C"
+  level: 1
+  maxExp: 0
+  curExp: 0
+  heal: 0

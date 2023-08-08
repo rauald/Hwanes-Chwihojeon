@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e7535f6ed127cc4e8476be821b87ef9, type: 3}
+  m_Name: Meteor
+  m_EditorClassIdentifier: 
+  type: 2
+  skillName: "\uBE44\uAE30 \xB7 \uB9F9\uD638\uC720\uC131\uAC01"
+  aniName: doAllSkill
+  skillDamage: 10
+  atkCount: 1
+  isPoison: 0
+  isFaint: 0
+  isSFX: 1
+  icon: {fileID: -524910028, guid: 4f2d76dbf9e19a542b9b2b8a97510ce2, type: 3}
+  number: 4
+  removeMp: 30
+  description: "\uACC4\uC18D \uBCC4\uB625\uBCC4\uC744 \uBFCC\uB9AC\uACE0 \uC5F0\uC18D\uC73C\uB85C
+    \uB0A0\uC544 \uCC28\uB294 \uAE30\uC220"
+  rank: "\uD544\uC0B4\uAE30"
+  level: 1
+  maxExp: 100
+  curExp: 0
+  heal: 0

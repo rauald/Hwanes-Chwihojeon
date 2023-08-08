@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e7535f6ed127cc4e8476be821b87ef9, type: 3}
+  m_Name: Clone
+  m_EditorClassIdentifier: 
+  type: 2
+  skillName: "\uC778\uBC95 \xB7 \uBD84\uC2E0\uC220"
+  aniName: doAllSkill
+  skillDamage: 1
+  atkCount: 2
+  isPoison: 0
+  isFaint: 0
+  isSFX: 1
+  icon: {fileID: 1841213760, guid: 4f2d76dbf9e19a542b9b2b8a97510ce2, type: 3}
+  number: 1
+  removeMp: 15
+  description: "\uC73C\uC557, \uC2A4\uB9C8\uC288\uAC00 \uC5EC\uB7EC \uBA85\u2026?!
+    \uC801 \uC804\uCCB4\uB97C \uACF5\uACA9\uD558\uB294 \uBD84\uC2E0\uACF5\uACA9\uAE30\uC778\uAC00?! "
+  rank: "\uD544\uC0B4\uAE30"
+  level: 1
+  maxExp: 100
+  curExp: 0
+  heal: 0
